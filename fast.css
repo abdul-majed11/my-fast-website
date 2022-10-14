@@ -1,0 +1,16 @@
+.B{
+    background-color: yellowgreen;
+    border: 8px solid crimson;
+}
+.N{
+    background-color: rgb(249, 159, 15);
+    border: 8px solid rgb(0, 0, 0);
+}
+.P{
+    background-color: rgb(37, 183, 251);
+    border: 8px solid rgb(0, 121, 8);
+}
+.I{
+    background-color: rgb(20, 244, 165);
+    border: 8px solid rgb(74, 4, 18);
+}
